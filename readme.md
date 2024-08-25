@@ -8,7 +8,7 @@
 Task CLI is a command-line tool to manage tasks. It allows you to create, list, update, delete, and mark tasks with different statuses like done, in-progress, and todo.
 
 ### Project URL
-`https://github.com/erpranavknigam/TaskManager.git`
+`https://github.com/erpranavknigam/TaskManager`
 
 ## Features
 
