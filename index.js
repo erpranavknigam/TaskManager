@@ -12,6 +12,8 @@ if(!fs.existsSync(taskFile) || fs.readJsonSync(taskFile, {throws:false}) === nul
     fs.writeFileSync(taskFile,JSON.stringify([]))
 }
 
+
+
 // Command for Creating a new Task
 program.command('add <task>')
 .description('Add a new task')
